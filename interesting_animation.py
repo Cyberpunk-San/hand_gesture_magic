@@ -18,7 +18,7 @@ max_particles = 100
 fireball_radius = 40  
 
 lightning_particles = []  
-max_lightning_particles = 40  # Maximum number of lightning particles
+max_lightning_particles = 40 
 lightning_speed = 20
 lightning_color = (0, 255, 255)  
 
