@@ -24,7 +24,6 @@ lightning_color = (0, 255, 255)
 
 colors = [(255, 69, 0), (255, 140, 0), (255, 255, 0), (255, 255, 255)] 
 
-# Particle structure
 class Particle:
     def __init__(self, x, y, color=lightning_color):
         self.x = x
